@@ -11,7 +11,7 @@
 
 ![Adsız3](https://user-images.githubusercontent.com/65908597/193422524-10deff89-e3cd-43e4-8ac9-3d96c517fe38.png)
 
-* Eğer dosyanın içinde linklere denk gelirsek bu linki açmak için kullanıcıdan konsola 1 girilmesi istenir.                     
+* Eğer dosyanın içinde linklere denk gelirsek bu linki açmak için kullanıcıdan konsola 1 girilmesi istenir.1'den farklı sayı girilirse program hata mesajı verir                     
 ![Adsız4](https://user-images.githubusercontent.com/65908597/193422578-2b51fb9b-1cd9-419a-bb8c-e48432bfaaff.png)
 
 * Linke girdikten sonra program o linkin içindeki verileri okumaya başlar.
