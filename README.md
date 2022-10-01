@@ -8,6 +8,7 @@
 
 * Program Dosya.txt'nin okunmasıyla başlar.
 * Dosya içinde renkli yazılması gereken metinler tespit edilip konsola aşağıdaki gibi renkli yazdırılır.
+* Commentlar okunmaya dahil edilmez.
 
 ![Adsız3](https://user-images.githubusercontent.com/65908597/193422524-10deff89-e3cd-43e4-8ac9-3d96c517fe38.png)
 
