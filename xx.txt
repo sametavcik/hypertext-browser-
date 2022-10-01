@@ -1,0 +1,5 @@
+/* Any comment text here */
+[red] This is normally written in red from SECOND FILE. [end_red]
+/* Any comment text here */
+[THIRD FILE| cc.txt].
+[blue] This is normally written in blue from SECOND FILE.[end_blue]

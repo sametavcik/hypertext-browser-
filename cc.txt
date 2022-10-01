@@ -1,0 +1,2 @@
+/* Any comment text here */
+[red] This is normally written in red from THIRD FILE. [end_red]

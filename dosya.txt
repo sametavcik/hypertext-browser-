@@ -1,0 +1,5 @@
+/* Any comment text here */
+[red] This is normally written in red from FIRST FILE. [end_red]
+[SECOND FILE| xx.txt].
+[blue] This is normally written in blue from FIRST FILE.[end_blue]
+/* Any comment text here */
